@@ -31,7 +31,7 @@ You have the ability to write HTML, CSS, and responsive media queries.  You also
 
 ## MVP Requirements
 
-- [ ] Study the code base and identify both responsive units and where media queries were used.  Take notes on anything that confuses you or interesting things you find.  Share this information in your standup meeting with your group
+- [ x] Study the code base and identify both responsive units and where media queries were used.  Take notes on anything that confuses you or interesting things you find.  Share this information in your standup meeting with your group
 - [ ] Customize the template to you 
 	- [ ] Update the title tag match your name
 	- [ ] Update the place holder content throughout the template to your information
